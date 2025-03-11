@@ -1,0 +1,7 @@
+.gambar-hover {
+    transition: transform 0.3s ease-in-out; 
+}
+
+.gambar-hover:hover {
+    transform: scale(1.1); 
+}
